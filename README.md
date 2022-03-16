@@ -1,0 +1,2 @@
+# Blood-Sport-Fighting-League-Stats
+fore joining HYPE Guild and winning War 83 with PartisanHeroJINX, Rosca gained his modern combat roots in the  Blood Sport Fighting League. In the league he was balanced fighter who focused on winning by submissions. He  ended the league #4th in the Featherweight division and a record of 15 wins 10 losses.    After winning over $2 million in fight money, Rosca decided to use some of that money for the guild and further use his knowledge of Javascript to further bring his fighting stats to life. 
